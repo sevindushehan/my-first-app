@@ -1,0 +1,32 @@
+body {
+    background-color: white;
+    color:black;
+    transition: all 0.3s ease;
+}
+
+.dark-mode {
+    background-color: #121212;
+    color: white;
+
+}
+
+header {
+    background-color: #6c63ff;
+    color: white;
+    padding:20px;
+    border-radius:10px;
+}
+
+h1 {
+    margin: 0;
+}
+
+section {
+    margin-top: 20px;
+}
+
+footer {
+    margin-top: 40px;
+    font-size: 0.9em;
+    color: #333;
+}
